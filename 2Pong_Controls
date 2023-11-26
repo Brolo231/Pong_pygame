@@ -1,0 +1,13 @@
+2Pong is a local co-op game
+
+There are two players in 2Pong:
+
+Player 1 (Orange) is located on the left hand side of the game window and is controlled using the following keys:
+w: Moves Player1 vertically upward
+z: Moves Player1 vertically downward
+
+Player 2 (Green) is located on the right hand side of the game window and is controlled using the following keys:
+UP ARROW KEY: Moves Player1 vertically upward
+DOWN ARROW KEY: Moves Player1 vertically downward
+
+The game continuosly runs and keeps track of player scores until the QUIT key/button is pressed 
