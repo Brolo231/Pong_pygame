@@ -1,0 +1,11 @@
+Requirements:
+
+2Pong was coded using python3 and pygame on a windows operating system. If you 
+wish to play 2Pong you will need python as well as pygame. You can download 
+python from https://www.python.org/downloads/ 
+
+Once python is installed, open a command prompt and run the following command:
+pip install pygame
+
+Once python and pygame are both installed you should be able to run and play
+2Pong
