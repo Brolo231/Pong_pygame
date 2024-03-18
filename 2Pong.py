@@ -11,11 +11,11 @@ WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("2Pong")
 
 # Colours
-Baby_blue = (137, 207, 240)
-Light_green = (0, 238, 0)
-Orange = (255, 165, 0)
+Baby_blue = (0, 0, 0) #black
+Light_green = (255, 255, 255) #white
+Orange = (255, 255, 255) #white
 Red = (255, 0, 0)
-Purple = (128, 0, 128)
+Purple = (255, 255, 255) #white
 
 # Player dimensions
 PLAYER_WIDTH = 10
